@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Movies App Techbulls</string>
+    <string name="no_data">No Data</string>
+    <string name="search_by_name">Search by name</string>
+    <string name="search_error">there is no such movie name</string>
+    <string name="recipe">Movies</string>
+    <string name="no_internet">Please check your internet connection</string>
+    <string name="network_error">Network error, could get data,please try again!</string>
+    <string name="refresh">refresh</string>
+
+</resources>
